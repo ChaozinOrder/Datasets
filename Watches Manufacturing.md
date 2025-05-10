@@ -1,7 +1,7 @@
-1. Titan Watches Manufacturing Company Hosur
+Source: Titan Watches Manufacturing Company Hosur
+******************************
 
 Domain/Industry: Manufacturing
-******************************
 
 Primary Purpose: Root Cause Analysis (RCA) of defects across manufacturing stages and components.
 
@@ -9,8 +9,8 @@ Data Type(s): Structured (Tabular)
 
 Approximate Scale: Over 2.1 Million Defective Watch Records
 
-Key Features/Variables:
 ***********************
+Key Features/Variables:
 
 Year 2017-2020
 
@@ -24,8 +24,8 @@ Defect Identification
 
 Assembly Information
 
-Analytical Goals:
 ****************
+Analytical Goals:
 
 Identify most frequent defects.
 
@@ -33,8 +33,8 @@ Determine defect prevalence across manufacturing stages.
 
 Pinpoint components contributing to defects.
 
-Key Metrics Calculated:
 **********************
+Key Metrics Calculated:
 
 Rolled Throughput Yield (RTY)
 
