@@ -14,7 +14,7 @@ Scale: Data from 11,954 locations across Punjab (India), collected between 2009 
 **********************
 Key Features/Variables:
 
-Location Information (e.g., coordinates or identifiers)
+Location Information (villages and districts)
 
 Concentration levels of 12 major anions: Arsenic, Cadmium, Mercury, Nickel, Iron, Lead, Chromium, Selenium, Nitrate, Chloride, Fluoride, Sulfate.
 
