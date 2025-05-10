@@ -3,6 +3,8 @@ Dataset Name: Multi-Building HVAC System Operational and Energy Data
 
 Domain/Industry: Building Management Systems (BMS), Energy Efficiency
 
+Source: Energy ETA, a services company with clients like Residency Towers Chennai 
+
 Primary Purpose: Monitoring and optimizing HVAC system operations for energy efficiency through anomaly detection, demand forecasting, and strategic parameter adjustments.
 
 Data Type(s): Time Series, Structured (Tabular)
