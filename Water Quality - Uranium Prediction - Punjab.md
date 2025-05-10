@@ -1,7 +1,7 @@
 Dataset Name: Punjab Groundwater Quality - Uranium Concentration Prediction (2009-2020)
 ***************************************************************************************
 
-Source: Government 
+Source: Punjab Government 
 
 Domain/Industry: Environmental Science, Water Quality
 
