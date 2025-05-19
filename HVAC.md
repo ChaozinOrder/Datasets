@@ -9,7 +9,9 @@ Primary Purpose: Monitoring and optimizing HVAC system operations for energy eff
 
 Data Type(s): Time Series, Structured (Tabular)
 
-Scale: High-frequency (per-minute) data collected from various buildings (e.g., hotels) over years.
+Scale: High-frequency (per-minute) data collected from various buildings over years.
+
+Types of buildings - Malls, Hotels, Data Centers
 
 **********************
 Key Features/Variables:
